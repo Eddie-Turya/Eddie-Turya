@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and all coding staffs
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on coding in general 
-- 📫 How to reach me, whatsapp +255 627492719
+- 📫 How to reach me, whatsapp +255 695591719
 - 😄 Pronouns: smile
 - ⚡ Fun fact: Be smart and Happy, nothing serious in the world.
 
