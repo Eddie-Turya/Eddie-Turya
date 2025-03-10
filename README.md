@@ -9,8 +9,8 @@
 - 🌱 **Currently Learning**: App Development (iOS & Android)
 - 💞️ **Looking to Collaborate On**: Open-source projects, coding challenges, and anything tech-related!
 - 📫 **How to Reach Me**: 
-  - WhatsApp: [+255 695591719](https://wa.me/255627492719)
-  - Email: [YourEmail@example.com](mailto:graphereddy@gmail.com) *(replace with your email)*
+  - WhatsApp: [+255 627492719](https://wa.me/255627492719)
+  - Email: [graphereddy@gmail.com](mailto:graphereddy@gmail.com)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: Be smart and happy—nothing in the world is too serious! 😄
 
@@ -42,11 +42,11 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my featured repositories:
 
-1. **[Repository Name 1](https://github.com/Eddie-Turya/Portfolio)**  
+1. **Portfolio (https://github.com/Eddie-Turya/Portfolio)**  
      
    ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/Portfolio?style=social)
 
-2. **[Repository Name 2](https://github.com/Eddie-Turya/newbook)**  
+2. **Booking System (https://github.com/Eddie-Turya/newbook)**  
      
    ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/newbook-2?style=social)
 
