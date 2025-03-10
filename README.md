@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eddie Turya! 
 
-### 💻 Tech Enthusiast | 🚀 App Developer | 🌍 Collaborator
+### 💻 Tech Enthusiast | 💻 Full-Stack Web-Developer| 🚀 App Developer | 🌍 Collaborator
 
 ---
 
@@ -9,8 +9,8 @@
 - 🌱 **Currently Learning**: App Development (iOS & Android)
 - 💞️ **Looking to Collaborate On**: Open-source projects, coding challenges, and anything tech-related!
 - 📫 **How to Reach Me**: 
-  - WhatsApp: [+255 695591719](https://wa.me/255695591719)
-  - Email: [YourEmail@example.com](mailto:YourEmail@example.com) *(replace with your email)*
+  - WhatsApp: [+255 695591719](https://wa.me/255627492719)
+  - Email: [YourEmail@example.com](mailto:graphereddy@gmail.com) *(replace with your email)*
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: Be smart and happy—nothing in the world is too serious! 😄
 
@@ -42,19 +42,17 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my featured repositories:
 
-1. **[Repository Name 1](https://github.com/Eddie-Turya/Repo-Name-1)**  
-   *(Short description of the project)*  
-   ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/Repo-Name-1?style=social)
+1. **[Repository Name 1](https://github.com/Eddie-Turya/Portfolio)**  
+     
+   ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/Portfolio?style=social)
 
-2. **[Repository Name 2](https://github.com/Eddie-Turya/Repo-Name-2)**  
-   *(Short description of the project)*  
-   ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/Repo-Name-2?style=social)
+2. **[Repository Name 2](https://github.com/Eddie-Turya/newbook)**  
+     
+   ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/newbook-2?style=social)
 
 3. **[Repository Name 3](https://github.com/Eddie-Turya/Repo-Name-3)**  
    *(Short description of the project)*  
    ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/Repo-Name-3?style=social)
-
-*(Replace the repository names and descriptions with your actual projects. You can also use GitHub's API to dynamically list your repositories if you prefer.)*
 
 ---
 
@@ -70,11 +68,11 @@ Here are some of my featured repositories:
 
 Let’s collaborate and build something amazing together! Reach out to me on:
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/255695591719)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) *(replace with your LinkedIn profile)*
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle) *(replace with your Twitter handle)*
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/255627492719)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EdwinTurya)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Eddie-Turya)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:YourEmail@example.com) *(replace with your email)*
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:graphereddy@gmail.com)
 
 ---
 
