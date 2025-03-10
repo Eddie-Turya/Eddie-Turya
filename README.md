@@ -50,10 +50,6 @@ Here are some of my featured repositories:
      
    ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/newbook-2?style=social)
 
-3. **[Repository Name 3](https://github.com/Eddie-Turya/Repo-Name-3)**  
-   *(Short description of the project)*  
-   ![Repo Stars](https://img.shields.io/github/stars/Eddie-Turya/Repo-Name-3?style=social)
-
 ---
 
 ## 📈 GitHub Stats
