@@ -62,7 +62,7 @@ Here are some of my featured repositories:
 
 ## 🤝 Let's Connect!
 
-Let’s collaborate and build something amazing together! Reach out to me on:
+Let’s collaborate and build something amazing together! Reach out to me on.:
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/255627492719)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
