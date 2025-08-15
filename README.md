@@ -1,73 +1,75 @@
-# 👋 Hey there, I'm Eddie Turya
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Eddie%20Turya&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20App%20Innovator%20%7C%20Tech%20Enthusiast&descAlignY=60&animation=fadeIn" alt="header" />
+</p>
 
-### 💻 Full-Stack Developer | 🚀 App Innovator | 🌍 Open-Source Collaborator
+<!-- Intro -->
+<h2 align="center">💻 Building Digital Experiences | 🚀 Innovating Across Web & Mobile</h2>
+<p align="center">
+  <em>Crafting premium, scalable, and impactful software solutions.</em>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **tech enthusiast** and **problem solver** passionate about building innovative, scalable, and user-friendly digital solutions.  
-From **web platforms** to **mobile applications**, I love turning ideas into reality with clean code and thoughtful design.
+I’m a **results-driven full-stack developer** passionate about turning ideas into elegant, high-performance applications.  
+Whether it’s a **world-class web app** or a **cross-platform mobile solution**, I build with performance, scalability, and great UX in mind.
 
-- 🌱 **Currently Learning**: Cross-platform app development (Flutter & React Native)
-- 💡 **I Enjoy Working On**: Open-source projects, collaborative builds, and challenging coding problems
-- 📬 **Reach Me Anytime**:  
+- 🌱 **Currently Learning**: Advanced Flutter & React Native for enterprise-grade apps
+- 💡 **Love To Work On**: Complex systems, fintech platforms, blockchain integrations, and open-source tools
+- 🌍 **Based In**: Tanzania 🇹🇿  
+- 📬 **Contact**:  
   [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/255627492719)
   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:graphereddy@gmail.com)
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I believe great code is like great humor — concise, clear, and instantly understood.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,html,css,php,react,nodejs,flutter,git,vscode&theme=light" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-- **[Portfolio Website](https://github.com/Eddie-Turya/Portfolio)**  
-  A modern, responsive portfolio showcasing my work and skills.  
-  ![Stars](https://img.shields.io/github/stars/Eddie-Turya/Portfolio?style=social)
+### 🖥 [Portfolio Website](https://github.com/Eddie-Turya/Portfolio)  
+A sleek, responsive showcase of my projects and skills.  
+![Stars](https://img.shields.io/github/stars/Eddie-Turya/Portfolio?style=social)
 
-- **[Booking System](https://github.com/Eddie-Turya/newbook)**  
-  A full-stack booking platform with user authentication and payment integration.  
-  ![Stars](https://img.shields.io/github/stars/Eddie-Turya/newbook?style=social)
-
----
-
-## 📊 GitHub Insights
-
-![Eddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddie-Turya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Turya&layout=compact&theme=radical)
+### 📅 [Booking System](https://github.com/Eddie-Turya/newbook)  
+Full-stack booking platform with authentication & payment integration.  
+![Stars](https://img.shields.io/github/stars/Eddie-Turya/newbook?style=social)
 
 ---
 
-## 🤝 Let's Build Together
+## 📊 Performance & Activity
 
-I’m always open to collaborating on impactful and exciting projects.  
-Let’s connect and turn ideas into code:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eddie-Turya&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddie-Turya&theme=radical&hide_border=true" height="160" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EdwinTurya)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Eddie-Turya)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white)](https://github.com/Eddie-Turya/Portfolio)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Turya&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
 
 ---
 
-⭐ **From [Eddie-Turya](https://github.com/Eddie-Turya)**
+## 🤝 Let’s Build Something Great
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://twitter.com/EdwinTurya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/Eddie-Turya"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="mailto:graphereddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
