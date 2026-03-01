@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## 🧑‍💻 `who am i`
 
 ```yaml
 name       : Eddie Turya
