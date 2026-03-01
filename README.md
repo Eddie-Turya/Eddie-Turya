@@ -32,7 +32,6 @@
 name       : Eddie Turya
 role       : Full-Stack Developer & App Innovator
 location   : Dar es Salaam, Tanzania 🇹🇿
-languages  : [Python, JavaScript, Java, Kotlin, PHP, Dart]
 focus      : Web Apps · Mobile Apps · Fintech · Blockchain
 status     : Open to collaborations & freelance ✅
 ```
