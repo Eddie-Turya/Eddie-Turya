@@ -23,7 +23,6 @@
 ```yaml
 name       : Eddie Turya
 role       : Full-Stack Developer & App Innovator
-location   : Dar es Salaam, Tanzania 🇹🇿
 focus      : Web Apps · Mobile Apps · Fintech · Blockchain
 currently  : Learning advanced Flutter & enterprise React Native patterns
 status     : ● Open to freelance & collaboration
