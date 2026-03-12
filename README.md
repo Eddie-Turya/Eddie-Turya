@@ -76,37 +76,6 @@ I'm a **results-driven full-stack developer** who turns ambitious ideas into **e
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🖥️ Portfolio Website
-[![Repo](https://img.shields.io/badge/View%20Repo-0a0a2e?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/Eddie-Turya/Portfolio)
-![Stars](https://img.shields.io/github/stars/Eddie-Turya/Portfolio?color=00e5ff&style=flat-square)
-
-A sleek, fully-responsive personal showcase with smooth animations, project gallery, and contact integration. Built for lasting first impressions.
-
-`React.js` · `CSS3` · `JavaScript` · `Responsive Design`
-
-</td>
-<td width="50%">
-
-### 📅 Smart Booking System
-[![Repo](https://img.shields.io/badge/View%20Repo-0a0a2e?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/Eddie-Turya/newbook)
-![Stars](https://img.shields.io/github/stars/Eddie-Turya/newbook?color=00e5ff&style=flat-square)
-
-Full-stack booking platform with JWT auth, role-based access control, real-time availability, and payment gateway integration.
-
-`Node.js` · `PHP` · `MySQL` · `JWT` · `Payment API`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -123,16 +92,6 @@ Full-stack booking platform with JWT auth, role-based access control, real-time 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eddie-Turya&bg_color=0a0a2e&color=00e5ff&line=7b61ff&point=ff6b35&area=true&hide_border=true&area_color=0d1b4b" width="95%" />
 
 </div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Eddie-Turya&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 
