@@ -115,6 +115,4 @@ I'm a **results-driven full-stack developer** who turns ambitious ideas into **e
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:0a0a2e,100:000000&height=120&section=footer" />
 
-*Crafted with ❤️ by **Eddie Turya** · Tanzania 🇹🇿*
-
 </div>
