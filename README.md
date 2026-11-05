@@ -1,142 +1,239 @@
  <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Eddie Turya — Lead Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0a0d1c,50:111c36,100:0a0d1c&text=EDDIE%20TURYA&fontColor=22d3ee&fontSize=65&fontAlignY=42&desc=LEAD%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
 
-<a href="https://wa.me/255627492719"><img src="./assets/btn-whatsapp.svg" height="52" alt="WhatsApp" /></a>
-<a href="mailto:graphereddy@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email" /></a>
-<a href="https://twitter.com/EdwinTurya"><img src="./assets/btn-x.svg" height="52" alt="X" /></a>
-<a href="https://www.linkedin.com/in/yourprofile"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Engineering+scalable+digital+experiences.;From+system+architecture+to+production.;Turning+ideas+into+reliable+technology." alt="Typing introduction" />
 
 <br/><br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="Whoami — Eddie Turya" />
+<a href="https://github.com/Eddie-Turya">
+<img src="https://komarev.com/ghpvc/?username=Eddie-Turya&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://github.com/Eddie-Turya?tab=followers">
+<img src="https://img.shields.io/github/followers/Eddie-Turya?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
+</a>
+<a href="https://github.com/Eddie-Turya?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories"/>
+</a>
+
+<br/><br/>
+
+<a href="https://wa.me/255627492719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:graphereddy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/EdwinTurya"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
-## About Me
+---
 
-I'm **Edwin (Eddie) Turya**, a Lead Software Engineer based in **Dar es Salaam, Tanzania**, passionate about engineering reliable, scalable, and impactful digital products.
+## `whoami`
 
-I work across the entire software development lifecycle, from system architecture and backend engineering to web applications, mobile development, integrations, deployment, and production infrastructure.
+```typescript
+const eddie = {
+    name: "Edwin Turya",
+    alias: "Eddie",
+    location: "Dar es Salaam, Tanzania 🇹🇿",
+    role: "Lead Software Engineer",
 
-My focus is on building technology that solves real-world problems, particularly in fintech, financial services, digital payments, business management, and enterprise systems.
+    expertise: [
+        "Full-Stack Development",
+        "Backend Engineering",
+        "Mobile Application Development",
+        "Fintech & Payment Systems",
+        "System Architecture",
+        "DevOps & Infrastructure"
+    ],
 
-I enjoy turning complex business requirements into practical, maintainable software systems.
+    currentlyFocusedOn: [
+        "Scalable Software Architecture",
+        "Financial Technology",
+        "Distributed Systems",
+        "API Engineering",
+        "Production Infrastructure"
+    ],
 
-- **Location:** Dar es Salaam, Tanzania 🇹🇿
-- **Role:** Lead Software Engineer
-- **Focus:** Full-Stack Engineering, Fintech, Mobile & Backend Systems
-- **Interests:** System Architecture, API Engineering, Payment Infrastructure, Cloud & DevOps
-- **Approach:** Build it right. Test it properly. Ship it reliably.
+    philosophy: "Build with purpose. Engineer with precision."
+};
 
-## What I Build
+export default eddie;
+```
 
-| Area | What I Do |
+I'm a Lead Software Engineer passionate about designing, developing and deploying reliable digital solutions.
+
+My work spans the entire software engineering lifecycle — from understanding business requirements and designing system architecture to building APIs, developing web and mobile applications, integrating third-party services, managing infrastructure and maintaining production systems.
+
+I enjoy solving complex engineering challenges and transforming ideas into practical, scalable and maintainable software.
+
+I believe great engineering is not just about writing code. It's about building systems that work, scale and deliver meaningful value.
+
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- RESTful API development
+- Authentication & authorization
+- Database architecture
+- Business logic engineering
+- Third-party integrations
+- Performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend Engineering
+
+- Modern web applications
+- Responsive interfaces
+- Admin dashboards
+- Enterprise portals
+- Component architecture
+- State management
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mobile Engineering
+
+- Cross-platform development
+- Native Android development
+- Mobile API integration
+- Application architecture
+- Mobile performance
+- App deployment
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure & DevOps
+
+- Linux server administration
+- VPS management
+- Nginx configuration
+- Production deployment
+- CI/CD workflows
+- Monitoring & debugging
+
+</td>
+</tr>
+</table>
+
+## Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,python,html,css,sql&theme=dark" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&theme=dark" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma,firebase&theme=dark" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,swift,apple&theme=dark" />
+</p>
+
+### Infrastructure & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github,postman,vscode,figma&theme=dark" />
+</p>
+
+## Engineering Principles
+
+| Principle | My Approach |
 |---|---|
-| Backend Engineering | Scalable APIs, business logic, authentication, databases and integrations |
-| Frontend Engineering | Modern web applications, dashboards, admin panels and portals |
-| Mobile Development | Cross-platform and native Android/iOS applications |
-| Fintech Engineering | Digital wallets, payment gateways, financial platforms and transaction systems |
-| System Architecture | Application architecture, service integration and technical planning |
-| DevOps & Infrastructure | Linux servers, VPS management, Nginx, deployments and production monitoring |
-| API Integrations | Third-party services, payment providers, SMS, email and financial APIs |
+| Architecture | Design systems before implementation |
+| Reliability | Test APIs and verify database operations |
+| Security | Build with secure authentication and authorization |
+| Performance | Optimize applications and database queries |
+| Maintainability | Write clean, modular and reusable code |
+| Scalability | Design systems for growth |
+| Delivery | Prioritize tested and production-ready releases |
 
-## Technical Stack
-
-<img src="./assets/stack.svg" width="100%" alt="Technical stack" />
-
-### Languages & Frameworks
-
-- **Languages:** JavaScript, TypeScript, Dart, Kotlin, SQL
-- **Frontend:** React, Next.js, Vite, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Mobile:** Flutter, Android (Kotlin), iOS development
-- **Databases:** PostgreSQL, MySQL
-- **ORM & Data:** Prisma, SQL
-
-### Infrastructure & Engineering Tools
-
-- **Servers:** Linux, Ubuntu, VPS, Contabo
-- **Web Infrastructure:** Nginx, PM2, SSL/TLS
-- **Version Control:** Git, GitHub
-- **Development:** VS Code, Android Studio, Xcode
-- **API Testing:** Postman, cURL
-- **Deployment:** Server configuration, production deployments, environment management
-- **Monitoring:** Application logs, error tracking and production debugging
-
-## Selected Projects & Product Work
-
-I enjoy building products from the ground up, from the initial idea and technical architecture to implementation and deployment.
-
-Some of the products and engineering initiatives I've worked on include:
-
-### Fintech & Financial Technology
-
-- **DaftariPlus** — Business management platform designed to simplify daily business operations, records and financial management.
-- **Delivio Pay** — Payment infrastructure integrating payment service providers, mobile money and banking services.
-- **Kadoo Securities** — Financial technology and investment platform development, including mobile applications, market data and financial service integrations.
-- **Stempu** — Digital stamping and verification platform.
-- **Taskis** — Personal finance and money management application.
-- **WisoSplit** — Digital expense-sharing and payment management concept.
-
-### Business & Enterprise Solutions
-
-- **DawaPro** — Pharmacy management and point-of-sale solution.
-- **Qahala** — Multi-vendor marketplace platform with customer-facing services and administrative management.
-- **Biz Pro** — Business management and productivity solution.
-- **Nexgate** — Android application development.
-- **Delivio** — Digital platform and logistics-related product development.
-
-*These represent selected products and development initiatives, not necessarily publicly available repositories.*
-
-## Engineering Philosophy
-
-I believe great software engineering goes beyond writing code.
-
-My approach is built around:
-
-- **Architecture first:** Understand the system before implementing features.
-- **Backend before frontend integration:** Build and independently verify APIs before connecting user interfaces.
-- **Test what you build:** Verify real HTTP responses, database changes and end-to-end functionality.
-- **Security by design:** Prioritize authentication, authorization, data protection and secure integrations.
-- **Maintainability:** Write code that other engineers can understand, extend and maintain.
-- **Production readiness:** Consider performance, reliability, monitoring, deployment and recovery from the beginning.
-- **Business impact:** Build solutions that solve actual problems rather than adding unnecessary complexity.
-
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eddie-Turya&show_icons=true&hide_border=true&border_radius=22&bg_color=0a0d1c&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&rank_icon=github&custom_title=In%20numbers" height="170" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eddie-Turya&show_icons=true&hide_border=true&bg_color=0a0d1c&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Turya&layout=compact&hide_border=true&border_radius=22&bg_color=0a0d1c&title_color=22d3ee&text_color=c9d1d9&langs_count=6&custom_title=Most%20written" height="170" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Turya&layout=compact&hide_border=true&bg_color=0a0d1c&title_color=22d3ee&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Eddie-Turya&theme=transparent&hide_border=true&border_radius=22&background=0A0D1C&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Eddie-Turya&hide_border=true&background=0A0D1C&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eddie-Turya&bg_color=0a0d1c&color=c9d1d9&line=22d3ee&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
-## Let's Connect
+## Beyond The Code
 
-I'm always interested in connecting with developers, founders, technology teams and organizations building meaningful digital products.
+I am interested in the intersection of technology, business and innovation.
 
-Whether it's engineering collaboration, fintech innovation, software architecture, or building something from scratch, let's connect.
+- **Fintech:** Financial infrastructure, digital payments and modern financial services.
+- **Technology:** Emerging technologies, software architecture and engineering practices.
+- **Innovation:** Turning business challenges into technology-driven solutions.
+- **Continuous Learning:** Exploring new tools, frameworks and engineering methodologies.
+- **Collaboration:** Working with engineers, founders and teams to build meaningful products.
+
+## Let's Build Something Meaningful
+
+I'm always open to connecting with developers, engineering teams, technology leaders, founders and people passionate about building impactful technology.
+
+Whether it's software engineering, technical collaboration, fintech innovation or a challenging engineering problem, I'd be happy to connect.
 
 <div align="center">
 
-<a href="mailto:graphereddy@gmail.com">Email</a> ·
-<a href="https://wa.me/255627492719">WhatsApp</a> ·
-<a href="https://twitter.com/EdwinTurya">X / Twitter</a> ·
-<a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> ·
-<a href="https://github.com/Eddie-Turya">GitHub</a>
+<a href="mailto:graphereddy@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/255627492719">
+<img src="https://img.shields.io/badge/CONNECT_ON-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="The best way to predict the future is to build it." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d1c,50:111c36,100:0a0d1c&height=120&section=footer" width="100%" />
 
-**Building systems. Solving problems. Creating impact.**
+### "The best way to predict the future is to build it."
 
-<sub>© Eddie Turya · Dar es Salaam, Tanzania</sub>
+**Eddie Turya** · Lead Software Engineer · Dar es Salaam, Tanzania
+
+<sub>Building systems. Solving problems. Creating impact.</sub>
 
 </div>
+
+<!--
+Profile README powered by:
+- https://capsule-render.vercel.app
+- https://readme-typing-svg.demolab.com
+- https://skillicons.dev
+- https://shields.io
+- https://github-readme-stats.vercel.app
+- https://streak-stats.demolab.com
+- https://github-readme-activity-graph.vercel.app
+- https://komarev.com/ghpvc/
+-->
